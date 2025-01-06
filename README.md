@@ -37,16 +37,8 @@ hide();
 
 ### iOS
 
-Add the following to your Podfile:
-
-```ruby
-pod 'react-native-modern-splash', :path => '../node_modules/react-native-modern-splash'
-```
-
 Run pod install:
-
 ```bash
-Run pod install:
 cd ios && pod install
 ```
 
