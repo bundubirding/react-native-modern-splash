@@ -1,5 +1,3 @@
-// README.md content - copy this exactly, removing these first two lines:
-
 # react-native-modern-splash
 
 A modern, lightweight splash screen implementation for React Native.
