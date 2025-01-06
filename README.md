@@ -107,6 +107,5 @@ MIT
 Robert Elliott
 
 ## Support
-
 Create an Issue
 Follow updates on GitHub
